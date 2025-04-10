@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    ![Danz-X Image](https://files.catbox.moe/rvssr7.jpg)
+    ![Danz-X Image](https://raw.githubusercontent.com/Danz-X/discord-up/refs/heads/main/IMG-20250410-WA0027.jpg)
   </a>
 </div>
 
@@ -8,8 +8,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-raditbestari345@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raditbestari345@gmail.com)](mailto:raditbestari345@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@radityamnz-crimson?style=flat&logo=Instagram&logoColor=white&link=https://Instagram.com/radityamnz)](https://instagram.com/radityamnz) 
 [![Github Badge](https://img.shields.io/badge/Danz-X-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Danz-X/)](https://www.github.com/Danz-X/)  
-<p align='left'>Pemula Hehe</p>
-<p align='left'> You can view my website <a href='https://danz.xyz' target="_blank"><u>here</u>.</a></p>
+<p align="left">Pemula Hehe</p>
+<p align="left">You can view my website <a href="https://danz.xyz" target="_blank"><u>here</u>.</a></p>
 
 ## Some of my Github Stats
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Danz-X" alt="Danz-X" /></p>
