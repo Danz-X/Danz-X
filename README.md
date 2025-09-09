@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Danz-X">
-    <img src="https://raw.githubusercontent.com/Danz-X/Danz-X/main/profile.jpg" alt="Danz-X Profile" width="200"/>
+    <img src="[https://raw.githubusercontent.com/Danz-X/Danz-X/main/profile.jpg](https://raw.githubusercontent.com/Danz-X/Danz-X/refs/heads/main/e8da59cf-ccd0-45b0-82cb-12cbfd4f6b07.jpeg)" alt="Danz-X Profile" width="200"/>
   </a>
 </div>
 
