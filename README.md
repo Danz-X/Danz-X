@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    ![Danz-X Image](https://raw.githubusercontent.com/Danz-X/Danz-X/main/profile.jpg)
+    ![Danz-X Image](https://raw.githubusercontent.com/Danz-X/Danz-X/main/e8da59cf-ccd0-45b0-82cb-12cbfd4f6b07.jpeg)
   </a>
 </div>
 
